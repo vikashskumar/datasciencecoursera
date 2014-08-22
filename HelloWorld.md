@@ -1,3 +1,3 @@
 ## This is a markdown file
-*Markdown file meant for course work
+* Markdown file meant for course work
 
